@@ -3,7 +3,7 @@
 # Created by: Sydney Kuhn
 # Created on: Sept 2020
 # This program calculates the area and perimeter of a rectangle 
-#    with dimentions of 5cm and 3cm 
+#    with dimensions of 5cm and 3cm 
 
 
 def main():
